@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taxi-phrasebook/static/css/main.9c5ee5c0.css",
+    "main.js": "/taxi-phrasebook/static/js/main.d3697b29.js",
+    "static/js/453.7d3dfa4a.chunk.js": "/taxi-phrasebook/static/js/453.7d3dfa4a.chunk.js",
+    "index.html": "/taxi-phrasebook/index.html",
+    "main.9c5ee5c0.css.map": "/taxi-phrasebook/static/css/main.9c5ee5c0.css.map",
+    "main.d3697b29.js.map": "/taxi-phrasebook/static/js/main.d3697b29.js.map",
+    "453.7d3dfa4a.chunk.js.map": "/taxi-phrasebook/static/js/453.7d3dfa4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5ee5c0.css",
+    "static/js/main.d3697b29.js"
+  ]
+}
