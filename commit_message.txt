@@ -1,1 +1,0 @@
-feat: Implement initial phrasebook UI and functionality
