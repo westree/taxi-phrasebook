@@ -9,24 +9,28 @@ const phrases = {
     en: 'Please fasten your seatbelt.',
     ko: '안전벨트를 매주세요.',
     zh: '请系好安全带。',
+    es: 'Por favor, abróchese el cinturón.',
   },
-  'お支払いは現金ですか？カードですか？': {
-    en: 'Cash or card?',
-    ko: '현금으로 하시겠어요? 카드로 하시겠어요?',
-    zh: '请问您用现金还是刷卡？',
+  '料金はメーターをご確認ください': {
+    en: 'Please check the meter for the fare.',
+    ko: '요금은 미터기를 확인해 주세요.',
+    zh: '请查看计价器上的费用。',
+    es: 'Por favor, revise el taxímetro para ver la tarifa.',
   },
-  '料金はメーターの通りです。クレジットカードが利用できます': {
-    en: 'The fare is as shown on the meter. Credit cards are accepted.',
-    ko: '요금은 미터기에 표시된 대로입니다. 신용카드를 사용할 수 있습니다.',
-    zh: '车费如计价器所示。您可以使用信用卡。',
+  'クレジットカードがご利用できます': {
+    en: 'Credit cards are accepted.',
+    ko: '신용카드를 이용하실 수 있습니다.',
+    zh: '可以使用信用卡。',
+    es: 'Se aceptan tarjetas de crédito.',
   },
 };
 
-const languages = ['en', 'ko', 'zh'];
+const languages = ['en', 'ko', 'zh', 'es'];
 const languageNames: { [key: string]: string } = {
   en: 'English',
   ko: '한국어',
   zh: '中文',
+  es: 'Español',
 };
 
 
